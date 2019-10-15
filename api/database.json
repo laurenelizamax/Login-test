@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+        "name": "Lauren",
+        "email": "lauren@lauren.com",
+        "password": "lauren",
+        "id": 1
+        },
+        {
+         "name": "Heidi",
+        "email": "heidi@heidi.com",
+        "password": "heidi",
+         "id": 2
+            },
+            {
+         "name": "Mark",
+        "email": "mark@mark.com",
+         "password": "mark",
+          "id": 3
+                }
+    ],
+    "tacos": [
+        {
+            "name": "Taco",
+            "flavor": "beef",
+            "id": 1
+            },
+            {
+            "name": "Burrito",
+            "email": "chicken",
+            "id": 2
+                },
+                {
+            "name": "Quesadilla",
+            "email": "veggie",
+            "id": 3
+                    }
+    ]
+
+}
