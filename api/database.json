@@ -1,40 +1,60 @@
 {
-    "users": [
-        {
-        "name": "Lauren",
-        "email": "lauren@lauren.com",
-        "password": "lauren",
-        "id": 1
-        },
-        {
-         "name": "Heidi",
-        "email": "heidi@heidi.com",
-        "password": "heidi",
-         "id": 2
-            },
-            {
-         "name": "Mark",
-        "email": "mark@mark.com",
-         "password": "mark",
-          "id": 3
-                }
-    ],
-    "tacos": [
-        {
-            "name": "Taco",
-            "flavor": "beef",
-            "id": 1
-            },
-            {
-            "name": "Burrito",
-            "email": "chicken",
-            "id": 2
-                },
-                {
-            "name": "Quesadilla",
-            "email": "veggie",
-            "id": 3
-                    }
-    ]
-
+  "users": [
+    {
+      "email": "lauren@lauren.com",
+      "password": "lauren",
+      "id": 1
+    },
+    {
+      "email": "heidi@heidi.com",
+      "password": "heidi",
+      "id": 2
+    },
+    {
+      "email": "mark@mark.com",
+      "password": "mark",
+      "id": 3
+    },
+    {
+      "email": "eliza@eliza.com",
+      "password": "eliza",
+      "id": 4
+    },
+    {
+      "email": "me@me",
+      "password": "me",
+      "id": 5
+    }
+  ],
+  "tacos": [
+    {
+      "name": "Beef Supreme",
+      "id": 1
+    },
+    {
+      "name": "Chicken Surprise",
+      "id": 2
+    },
+    {
+      "name": "Veggie Lovers",
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "tacoId": 1,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "tacoId": 2,
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "tacoId": 3,
+      "userId": 3
+    }
+  ]
 }
